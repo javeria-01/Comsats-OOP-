@@ -3,8 +3,8 @@ package Assignments;
         double width;
         double height;
         Rectangle(){
-            this.width = 56.34;
-            this.height = 90.23;
+            this.width = 1;
+            this.height = 1;
         }
         Rectangle(double width, double height) {
             this.width = width;
