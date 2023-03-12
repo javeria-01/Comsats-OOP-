@@ -4,7 +4,7 @@ public class This_Keyword {
     int x = 10;
     public This_Keyword(){
         int x =15;
-//       this.x = x;              If you remove this x so anwer will be zero
+//       this.x = x;              If you remove this x so answer will be zero
         System.out.println("Value of x is " +this.x);
     }
 
